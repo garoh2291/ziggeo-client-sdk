@@ -22,6 +22,7 @@
     "grunt-contrib-concat": "",
     "grunt-contrib-clean": "",
     "grunt-node-qunit": "",
+    "grunt-contrib-uglify": "^4.0.0",
     "qunit": "",
     "grunt-text-replace": "",
     "grunt-contrib-copy": "",
